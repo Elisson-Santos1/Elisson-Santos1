@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o Elisson 👋
 ### Backend Developer | Node.js | Python | Go
 
 <p align="left">
@@ -13,7 +13,7 @@ Sou um desenvolvedor apaixonado por construir **sistemas escaláveis**, **APIs r
 
 - 🌱 Estudando: **Arquitetura de Software e Kubernetes**
 - 💬 Pergunte-me sobre: **Python, SQL, SQLITE**
-- 📫 Como me encontrar: *'elissonedu9@gmail.com**
+- 📫 Como me encontrar: **elissonedu9@gmail.com**
 
 ---
 
@@ -30,14 +30,6 @@ Sou um desenvolvedor apaixonado por construir **sistemas escaláveis**, **APIs r
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
----
-
-## 📈 Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elissonedu9-source&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elissonedu9-source&layout=compact&langs_count=7&theme=tokyonight"/>
-</p>
 
 ---
 
